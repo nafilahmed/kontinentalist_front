@@ -1,3 +1,4 @@
-# Free Modernize vuejs 3 based admin dashboard template Download it for free
-Modernize vue3 + vite + typescript +vuetify 3 admin Template
-# Chekcout the live link : https://modernize-vue3-free.netlify.app/ <a href="https://modernize-vue3-free.netlify.app/">Live Preview </a>
+1- Intall Node on your machine.<br>
+2- Git pull this repo.<br>
+3- Run "npm i" inn inside project directory.<br>
+4- Ignore warnings and Run "npm run dev".<br>
